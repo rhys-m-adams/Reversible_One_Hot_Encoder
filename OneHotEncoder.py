@@ -1,3 +1,6 @@
+# Rhys M. Adams
+# 2021 August 28
+
 import pandas
 import numpy as np
 
